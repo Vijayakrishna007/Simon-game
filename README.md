@@ -1,5 +1,5 @@
 # Simon-game
-This is a basic Simon Game made using HTML, CSS, and JavaScript. The game tests your memory by showing a pattern of colors you need to repeat.
+This is a Simon Game made using HTML, CSS, and JavaScript. The game tests your memory by showing a pattern of colors you need to repeat.
 
 ## How to Play
 Press any key to start the game.<br>
